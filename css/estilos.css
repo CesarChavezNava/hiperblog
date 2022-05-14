@@ -8,3 +8,7 @@ header {
     width: 80%;
     margin: 0 auto;
 }
+
+header span {
+    font-weight: 600;
+}
